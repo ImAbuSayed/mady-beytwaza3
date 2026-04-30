@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> عيونك تنادي في عتمة الليل
+> نار الشوق في قلبي ما لها مثيل
+> تعالي بحضني ننسى كل الناس
+> الحب ده حكاية وإحساس جميل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
