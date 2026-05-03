@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Mady Beytwaza3 |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 01, 2026 |
+| Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mady-beytwaza3/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> عيونك تنادي في عتمة الليل
+> نار الشوق في قلبي ما لها مثيل
+> تعالي بحضني ننسى كل الناس
+> الحب ده حكاية وإحساس جميل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
